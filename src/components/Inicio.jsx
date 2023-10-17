@@ -2,7 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { useTranslation } from 'react-i18next';
-import fotoMia from '/img/FotoMia.jpeg';
+import fotoMia from '../img/FotoMia.jpeg';
 
 
 

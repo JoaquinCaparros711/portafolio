@@ -1,16 +1,16 @@
 import React from 'react';
-import html from "/img/html.png";
-import css from "/img/css.png";
-import js from "/img/javascript.png";
-import bootstrap from "/img/bootstrap.png";
-import react from "/img/react.png";
-import python from "/img/python.png";
-import mysql from "/img/mysql.png";
-import github from "/img/github.png";
-import git from "/img/git.png";
-import java from "/img/java.png";
-import terminal from "/img/terminal.png";
-import materialUI from "/img/materialui.png";
+import html from "../img/html.png";
+import css from "../img/css.png";
+import js from "../img/javascript.png";
+import bootstrap from "../img/bootstrap.png";
+import react from "../img/react.png";
+import python from "../img/python.png";
+import mysql from "../img/mysql.png";
+import github from "../img/github.png";
+import git from "../img/git.png";
+import java from "../img/java.png";
+import terminal from "../img/terminal.png";
+import materialUI from "../img/materialui.png";
 import { useTranslation } from 'react-i18next';
 
 
