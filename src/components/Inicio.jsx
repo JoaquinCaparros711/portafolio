@@ -18,7 +18,7 @@ export const Inicio = () => {
       <div>
         <div className="row align-items-center columnasInicio row">
           <div className="columna1 col">
-            <h3 className="fs-2">{t("HELLO")}</h3>
+            <h3 className="fs-2 hello">{t("HELLO")}</h3>
             <div>
                 
               <h1 className="fs-1">

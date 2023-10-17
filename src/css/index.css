@@ -416,7 +416,7 @@ form {
     }
 
     .titleProject {
-        font-size: 15px;
+        font-size: 14px;
     }
     
     
@@ -436,7 +436,13 @@ form {
         height: 150px;
         width: 150px;
     }
+
+    .form-cta {
+        font-size: 14px;
+    }
     
-    
+    .hello {
+        padding-top: 50px;
+    }
 
 }
