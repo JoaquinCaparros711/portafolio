@@ -1,9 +1,9 @@
 import React from 'react';
-import aluminumMold from '../img/AluminumMold.png';
-import appGenerator from '../img/appGenerator.png';
-import gifApp from '../img/gifApp.png';
-import mercadoLiebre from '../img/mercadoLiebre.png';
-import RickAndMorty from '../img/RickAndMorty.png';
+import aluminumMold from '/img/AluminumMold.png';
+import appGenerator from '/img/appGenerator.png';
+import gifApp from '/img/gifApp.png';
+import mercadoLiebre from '/img/mercadoLiebre.png';
+import RickAndMorty from '/img/RickAndMorty.png';
 import { useTranslation } from 'react-i18next';
 
 
