@@ -9,6 +9,8 @@ export const NavBar = () => {
 
     const [t, i18n] = useTranslation();
 
+    const signo = "<"
+
     return (
         <nav className="navbar navbar-expand-lg fixed-top">
             <div className="container-fluid">

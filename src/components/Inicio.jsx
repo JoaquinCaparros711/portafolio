@@ -20,7 +20,6 @@ export const Inicio = () => {
           <div className="columna1 col">
             <h3 className="fs-2 hello">{t("HELLO")}</h3>
             <div>
-                
               <h1 className="fs-1">
                 <b className="soy">
                   {t("IM")} <b className="joaquin">Joaquín Caparros</b>
