@@ -42,7 +42,7 @@ export const Proyectos = () => {
               </div>
     
               <div className="col">
-                {cardImg(mercadoLiebre, 'https://mercado-liebre-caparros.netlify.app/', 'MercadoLiebre')}
+                {cardImg(mercadoLiebre, 'https://mercado-liebre-joaquin.netlify.app/', 'MercadoLiebre')}
                 {cardImg(gifApp, 'https://gif-expert-app-joaquin.netlify.app/', 'GifApp')}
               </div>
     
